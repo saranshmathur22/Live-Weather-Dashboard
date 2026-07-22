@@ -85,10 +85,7 @@ Live-Weather-Dashboard
 │
 ├── Live_Weather_Dashboard.pbix
 ├── README.md
-├── LICENSE
-│
-└── assets
-    └── dashboard.png
+└── dashboard.png
 ```
 
 ---
@@ -164,9 +161,13 @@ Interactive Dashboard
 
 B.Tech (Artificial Intelligence & Machine Learning)
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: ## Connect with Me
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+[![GitHub](https://img.shields.io/badge/GitHub-saranshmathur22-181717?style=for-the-badge&logo=github)](https://github.com/saranshmathur22)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/saranshmathur123)
+
+
 
 ---
 
